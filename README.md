@@ -119,5 +119,4 @@ Spiritual Artificial intelligence guide
   </script>
 </body>
 </html>
-<img src="img_Holybook.png" alt="Holybook with fire and digital currents flowing from the midddle and around it"
 </visualization>
